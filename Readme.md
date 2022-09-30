@@ -1,19 +1,29 @@
-<h2 align="center">
 
-Cheating Private
+## Private Cheat
+
+
+### 📋 READ 
+
+
+- **Read the detailed information I have written before asking me.**
+- Because some people don't read anything and you have to send all information in 1 message
+- don't have to separate messages and send. because it will be difficult for me to put the data into the Server
 
 ---
 
 ### 🌐 〢 Game & Username , Password
 
 - The product you ordered
-- Username and password are used for logging in to the cheat Loader
+- Username and password 
+###### 🛑 Username & password is for login to our Loader system only | because some people think to send password of banned game lmao
 ---
 
 ### 💭 〢 External & Internal
 
 - External is more secure but is rather CPU intensive (maybe 20-30%).
 - Internal is less secure but consumes only 1-2% CPU. 
+###### For anyone using a CPU lower than I5 Gen 6 & Ryzen Gen 1 , We recommend that you choose Internal to keep it smooth.
+###### But for anyone whose CPU is I5 Gen 7 & Ryzen Gen2 and above, we recommend choosing External because it's safe to play.
 ---
 
 ### 📌 〢 Feature 
@@ -27,16 +37,21 @@ Cheating Private
 - We collect your HWID for security within the loader. [VIDEOS](https://youtu.be/WjtAUCDMihQ)
 - If there are more than 3 HWIDs select the first one.
 - ❌ The spoofer does not affect the HWID so it does not interfere with the loader. 
+
+###### 🔑 〢 For customers who buy and resell options, you do not need to send us a Hardware ID.
 ---
 
 ### 📁 〢 Winver
-
-- WINDOWS + R | WINVER & OK | SCREENSHOT AND SEND 
-
+```sh-session
+WINDOWS BUTTON + R >> TYPE " winver " >> OK >> SCREENSHOT >> SEND ME IN DM
+```
 ---
 
-### ⚙ 〢COPY 
 
+### ⚙ 〢CTRL + C 
+##### 🛑 Copy the text below and put your information after it. to make it look complete in one message.
+
+```
 GAME: 
 
 USERNAME & PASSWORD: 
@@ -48,15 +63,10 @@ FEATURE:
 HWID: 
 
 WINVER: 
+```
 
 ---
 
-
-- Cheating Private will take 1-2 days to create from the moment of payment 
-- We will start the project in 1 hour. 
-- If you have any questions, please ask in chat.
-
----
 
 Example 
 
@@ -71,7 +81,6 @@ FEATURE : Aimbot / esp / no recoil etc..
 HWID : SCSI\DiskBIOSTAR_______S100-240GBR081
 
 WINVER :
-  
-  ![image](https://user-images.githubusercontent.com/94861415/182467564-d2b46cb3-930e-4428-90b5-467533a5377d.png)
 
+![image](https://user-images.githubusercontent.com/94861415/182467564-d2b46cb3-930e-4428-90b5-467533a5377d.png)
 
