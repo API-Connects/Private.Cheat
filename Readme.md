@@ -34,11 +34,9 @@
 
 ### 🔎 〢 Hardware ID 
 
-- We collect your HWID for security within the loader. [VIDEOS](https://youtu.be/WjtAUCDMihQ)
-- If there are more than 3 HWIDs select the first one.
-- ❌ The spoofer does not affect the HWID so it does not interfere with the loader. 
+## ❌ Do not submit / We have updated the new Loader version.
 
-###### 🔑 〢 For customers who buy and resell options, you do not need to send us a Hardware ID.
+- When you log in to Loader, your HWID will be instantly locked.
 ---
 
 ### 📁 〢 Winver
@@ -60,8 +58,6 @@ EXTERNAL & INTERNAL:
 
 FEATURE: 
 
-HWID: 
-
 WINVER: 
 ```
 
@@ -77,8 +73,6 @@ USERNAME & PASSWORD : sarnax / toq1022
 EXTERNAL & INTERNAL : External
 
 FEATURE : Aimbot / esp / no recoil etc..
-
-HWID : SCSI\DiskBIOSTAR_______S100-240GBR081
 
 WINVER :
 
